@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c3f6dbbe96070e84a883018b79201808
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fireworksFX: {fileID: 694371927068221141, guid: d4a6ed60f51deef4da6e258881da9c32,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
