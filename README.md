@@ -14,7 +14,7 @@ I used Unity and C# scripts to create a mouse clicking game that challenges the 
 - The Player's goal is to press the randomly spawning buttons that spawn through the whole screen with as much precision as they can. They will gain a point for each button that they accurately press and loss a point for each button that they miss (the buttons have a short lifespan). If they press on the button, then a cool firework effect will explode around the button. They have about 30 seconds until the game is finished.
 
 ![](readmepics/tappinggamess1.png)
-- Once the timer runs out, players can see their score. They are given the option to replay the game or quit to the Main Menu.
+- Once the timer runs out, players can see their score and the highscore during this gaming session. They are given the option to replay the game or quit to the Main Menu.
 
 ## Contributors
 - Co-developed by Giang Nguyen (www.github.com/giangvubinhn)
