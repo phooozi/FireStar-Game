@@ -1,4 +1,4 @@
-# [FireStar Game](https://discordapp.com/channels/635667716170317846/635667716170317848/728692496129065012)
+# [FireStar Game](https://simmer.io/@ohwowow/firestar?fbclid=IwAR3KMiRV9-3Dydze3BsDcFzDXZlxsXOXK4KnJNzdn_rTymm8RB8CJch1Hl4)
 
 *Unity Reflex Tapping Game*
 
